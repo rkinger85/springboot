@@ -6,7 +6,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 /**
- * Created by shiva on 16/11/16.
+ * Created by shiva on 16/11/16. Added to git
  */
 @RestController
 @EnableAutoConfiguration
